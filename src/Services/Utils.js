@@ -122,4 +122,4 @@ class UtilsService {
 }
 
 const utils = new UtilsService();
-module.export = utils;
+module.exports = utils;

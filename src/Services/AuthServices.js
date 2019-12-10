@@ -105,4 +105,4 @@ class AuthServices {
     }
 }
 const auth = new AuthServices();
-module.export = auth;
+module.exports = auth;

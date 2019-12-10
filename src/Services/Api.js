@@ -23,4 +23,4 @@ class ApiService {
 }
 
 const api = new ApiService();
-module.export = api;
+module.exports = api;

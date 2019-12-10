@@ -100,4 +100,4 @@ class LocalStorageObject {
 LocalstorageutilsService.maxExpiryDate = new Date(2100, 0, 1, 0, 0, 0);// By Default It will expire on Year 2100
 
 const lsu = new LocalstorageutilsService()
-module.export = lsu;
+module.exports = lsu;
